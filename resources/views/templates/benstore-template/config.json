@@ -1,0 +1,9 @@
+{
+    "name": "Benstore template",
+    "image": "images/scart-min.png",
+    "auth": "HungDev",
+    "email": "support@s-cart.org",
+    "website": "https://S-Cart.Org",
+    "configKey": "benstore-template",
+    "version": "6.4"
+}
